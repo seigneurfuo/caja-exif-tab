@@ -1,6 +1,6 @@
 # Caja EXIF Tab
 
-Une extention Caja pour afficher les informations EXIF d'un fichier.
+Une extension Caja pour afficher les informations EXIF d'un fichier.
 
 Code largement repris de https://aur.archlinux.org/packages/caja-mediainfo-tab
 
